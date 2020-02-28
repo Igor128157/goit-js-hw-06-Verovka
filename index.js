@@ -1,6 +1,6 @@
 'use strict';
 
-import user from './users.js';
+import users from './users.js';
 
 
 
